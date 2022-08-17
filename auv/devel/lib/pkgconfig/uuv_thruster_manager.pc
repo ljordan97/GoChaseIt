@@ -1,0 +1,8 @@
+prefix=/home/robond/workspace/auv/devel
+
+Name: uuv_thruster_manager
+Description: Description of uuv_thruster_manager
+Version: 0.6.13
+Cflags: -I/home/robond/workspace/auv/devel/include
+Libs: -L/home/robond/workspace/auv/devel/lib 
+Requires: std_msgs message_runtime
