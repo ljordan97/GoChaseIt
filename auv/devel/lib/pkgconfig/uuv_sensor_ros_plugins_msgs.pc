@@ -1,8 +1,0 @@
-prefix=/home/robond/workspace/auv/devel
-
-Name: uuv_sensor_ros_plugins_msgs
-Description: Description of uuv_sensor_ros_plugins_msgs
-Version: 0.6.13
-Cflags: -I/home/robond/workspace/auv/devel/include
-Libs: -L/home/robond/workspace/auv/devel/lib 
-Requires: geometry_msgs message_runtime

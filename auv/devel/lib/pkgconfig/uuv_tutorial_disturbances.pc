@@ -1,8 +1,0 @@
-prefix=/home/robond/workspace/auv/devel
-
-Name: uuv_tutorial_disturbances
-Description: Description of uuv_tutorial_disturbances
-Version: 0.6.13
-Cflags: 
-Libs: -L/home/robond/workspace/auv/devel/lib 
-Requires: 
